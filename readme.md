@@ -6,7 +6,7 @@
 
 ### Step 1: Download and Extract
 
-1. **Download:** Grab the latest release from the [releases page](https://github.com/your-username/Lil/releases).
+1. **Download:** Grab the latest release from the [releases page](https://github.com/nihat417/LilVsTheme/releases/new).
 2. **Extract:** Unzip the downloaded file to reveal its contents.
 
 ### Step 2: Copy `lil.pkgdef`
